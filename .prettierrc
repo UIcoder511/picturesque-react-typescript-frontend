@@ -1,0 +1,10 @@
+{
+  "tabWidth": 3,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "printWidth": 80,
+  "useTabs": false,
+  "endOfLine": "auto",
+  "parser": "babel-flow"
+}
